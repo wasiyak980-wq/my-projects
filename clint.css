@@ -1,0 +1,46 @@
+ body{
+      font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+	  }
+	  
+.div1{width:70%;
+
+      background-color:skyblue;
+	  margin-left:230px;
+	  padding-top:20px;
+     box-shadow:10px 10px 20px #FFFDB8;
+    border-radius:20px;	 }
+	
+img{width:90px;
+     height:90px;
+	margin-bottom:-29px;
+	 border-radius:50%;
+	 margin-left:500px;
+	 
+   }	
+   
+.label1{text-shadow:10px 10px 10px #11164D;
+      font-weight:bold;}   
+ 
+ span{font-weight:bold;
+ font-size:20px;}
+
+
+.div2{ background-color:#1C1212;
+      box-shadow:10px 10px 10px #6E0202;
+	   border-radius:20px;	}	  
+	 
+.ff{padding:2%;
+     width:50%;
+	 font-size:20px;
+	 text-shadow:10px 10px 10px white;}
+	 
+input{border:2px solid black;
+      }	 
+	  
+textarea{border:2px solid black ;
+         border-radius:10px;}	  
+
+
+span{background-color:;
+     padding:1%;
+     margin-left:100px;	}
